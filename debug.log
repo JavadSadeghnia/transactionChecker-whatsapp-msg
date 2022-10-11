@@ -1,0 +1,15 @@
+[1009/194617.905:ERROR:exception_handler_server.cc(527)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[1009/194718.569:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\Abbas\transactionchecker\node_modules\wbm\tmp\Crashpad\reports: The system cannot find the path specified. (0x3)
+[1009/194721.945:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1009/194725.815:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Abbas\transactionchecker\node_modules\wbm\tmp\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1009/194725.816:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Abbas\transactionchecker\node_modules\wbm\tmp\Crashpad\reports\17e357c9-eeed-471a-aeac-f12ff47d3604.dmp: The system cannot find the path specified. (0x3)
+[1009/194725.819:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1009/194725.869:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Abbas\transactionchecker\node_modules\wbm\tmp\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1009/194725.869:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Abbas\transactionchecker\node_modules\wbm\tmp\Crashpad\reports\32d798b4-834c-440c-9fb8-7c497110375a.dmp: The system cannot find the path specified. (0x3)
+[1009/194725.870:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1011/122552.392:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1011/122552.409:ERROR:exception_snapshot_win.cc(98)] thread ID 5564 not found in process
+[1011/122552.409:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1011/142113.653:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1011/142113.654:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1011/142113.654:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
